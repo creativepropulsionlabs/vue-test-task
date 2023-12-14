@@ -41,11 +41,11 @@ You can enter a note by pressing "Save Note" or pressing Ctrl + Enter. Regular E
 - Using of modern CSS Grid Layout, CSS Custom Properties etc is mandatory.
 - The application logic should be organized into a reasonable number of self-sufficient Vue components.
 - Special attention should be paid to the following points:
-	- The code should be written clearly and neatly, observing tabulation and other writing elements, without unnecessary elements and functions that are not relevant to the functionality, provided with clear comments, if necessary.
-	- Readability and the existence of elementary architecture.
-	- Cleanness and formatting of the code is an equally important factor. The code should be written in a unified style. 
+  - The code should be written clearly and neatly, observing tabulation and other writing elements, without unnecessary elements and functions that are not relevant to the functionality, provided with clear comments, if necessary.
+  - Readability and the existence of elementary architecture.
+  - Cleanness and formatting of the code is an equally important factor. The code should be written in a unified style. 
   - Absence of copypaste and duplication of logic.
-	- The project should use code linters for static code analysis.
+  - The project should use code linters for static code analysis.
 
 The test task should be submitted in the following form:
 - A link to a public repository (GitHub, GitLab) with the source code.
